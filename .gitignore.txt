@@ -1,3 +1,0 @@
-./ghazals_a_to_z
-./meer-taqi-meer
-./mirza-ghalib
